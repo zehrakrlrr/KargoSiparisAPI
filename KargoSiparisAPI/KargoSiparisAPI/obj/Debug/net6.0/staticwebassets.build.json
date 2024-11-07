@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xK8IoDnAV4vh8Sm4cEldSUkwTnP295GVXyKp6TXIzC0=",
+  "Source": "KargoSiparisAPI",
+  "BasePath": "_content/KargoSiparisAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

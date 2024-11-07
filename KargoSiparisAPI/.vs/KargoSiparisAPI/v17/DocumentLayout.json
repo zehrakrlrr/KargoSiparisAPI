@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\webapplicationdbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\webapplicationdbcontextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\webapplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\models\\carrierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\models\\carrierconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|c:\\users\\keski\\desktop\\zehrakaralar\\kargosiparisapi\\kargosiparisapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E96D10F0-60F2-4059-B8C4-6E7CA77DFA0D}|KargoSiparisAPI\\KargoSiparisAPI.csproj|solutionrelative:kargosiparisapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1249,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WebApplicationDbContextBase.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\WebApplicationDbContextBase.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\WebApplicationDbContextBase.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\WebApplicationDbContextBase.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\WebApplicationDbContextBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAA+wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:45:36.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WebApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\WebApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\WebApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\WebApplicationDbContext.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\WebApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:45:35.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CarrierConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Models\\CarrierConfiguration.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Models\\CarrierConfiguration.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Models\\CarrierConfiguration.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Models\\CarrierConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:45:26.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:45:21.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Program.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Program.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:29:58.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:29:51.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Models\\Order.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:29:23.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "KargoSiparisAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\keski\\Desktop\\zehrakaralar\\KargoSiparisAPI\\KargoSiparisAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "KargoSiparisAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T09:28:56.881Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 449,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
